@@ -18,11 +18,11 @@
      - **Duration** : 2019-2022
      - **University** : MSBTE
 
- ## 🌱Currently Learing 
+ #### 🌱Currently Learing 
     - Developing my Skills in **Data Science** and looking for opportunities to apply my knowledge in real world Scenarios.
 		
- ## 📫 Let's Connect!
-    - **LinkdIn** : https://www.linkedin.com/in/aishwarya-wani
+ #### 📫Let's Connect!
+    - **LinkdIn**: https://www.linkedin.com/in/aishwarya-wani
     - **Email**: aishwarya.wani.09@gmail.com
     
 <!---
